@@ -27,7 +27,7 @@ class ScreenPayments extends StatelessWidget {
         ),
         centerTitle: true,
       ),
-      body: Center(
+      body:const Center(
         child: Text('ScreenPayments'),
       ),
     );
