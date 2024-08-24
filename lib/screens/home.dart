@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
         items: const [
           BottomNavigationBarItem(
               icon: Icon(Icons.storefront_outlined),
-              label: "Store",
+              label: "Store", 
               backgroundColor: Colors.blue),
           BottomNavigationBarItem(
               icon: Icon(Icons.description_outlined),
